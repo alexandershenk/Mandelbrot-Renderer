@@ -1,3 +1,0 @@
-/home/xander/Code/CPP/OpenGL Playground/mandel/CMakeFiles/rebuild_cache.dir
-/home/xander/Code/CPP/OpenGL Playground/mandel/CMakeFiles/your_exe_name.dir
-/home/xander/Code/CPP/OpenGL Playground/mandel/CMakeFiles/edit_cache.dir
