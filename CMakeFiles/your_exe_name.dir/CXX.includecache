@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xander/Code/CPP/OpenGL Playground/mandel/init.cpp
+iostream
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+init.h
+/home/xander/Code/CPP/OpenGL Playground/mandel/init.h
+
+/home/xander/Code/CPP/OpenGL Playground/mandel/init.h
+
+/home/xander/Code/CPP/OpenGL Playground/mandel/main.cpp
+iostream
+-
+math.h
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+init.h
+/home/xander/Code/CPP/OpenGL Playground/mandel/init.h
+
